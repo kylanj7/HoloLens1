@@ -1,4 +1,4 @@
-# Budget HoloLens Vision System
+# Free-Tier HoloLens Vision System
 
 A Unity-based computer vision system for HoloLens that leverages Azure Computer Vision API for object detection and visualization. The system includes caching, retry logic, and efficient resource management to optimize API usage within free tier limits.
 
